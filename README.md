@@ -4,7 +4,7 @@ This repository is a use case for developing a Data lakehouse in Amazon Web Serv
 The use case is based on a company STEDI that analyze sensor data from the STEDI team to build a data lakehouse solution for sensor data that trains a machine learning model.
 
 The STEDI Team has been hard at work developing a hardware STEDI Step Trainer that:
-1. trains the user to do a STEDI balance exercise.
+1. It trains the user to do a STEDI balance exercise.
 2. It sensors on the device that collect data to train a machine-learning algorithm to detect steps.
 3. It has a companion mobile app that collects customer data and interacts with the device sensors.
 
